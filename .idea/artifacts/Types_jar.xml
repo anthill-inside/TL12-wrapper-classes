@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Types:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Types_jar</output-path>
+    <root id="archive" name="TL12-wrapperClass.jar">
+      <element id="module-output" name="TL12-wrapperClass" />
+    </root>
+  </artifact>
+</component>
