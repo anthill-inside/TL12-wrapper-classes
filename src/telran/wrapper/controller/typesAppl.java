@@ -1,6 +1,6 @@
 package telran.wrapper.controller;
 
-public class Main {
+public class typesAppl {
     public static void main(String[] args) {
 
         String result = "";
